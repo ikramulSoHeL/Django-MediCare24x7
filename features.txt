@@ -1,0 +1,38 @@
+phase I:
+1. Login
+2. Signup
+3. View patient Profile
+4. Edit Patient Profile
+
+Phase II:
+5. Staff Login/Dashboard
+6. Staff can add Doctors
+7. Staff can add Ambulance
+8. Staff can See the ambulance list
+9. Added Doctors login
+10. Doctors can see thier profile
+11. Doctors Can Fill thier Information
+12. Doctors can update their profile
+
+Final Phase:
+13. Doctors List to Make Appointment Request
+14. Patient can Request Appointments
+15. Detail View of an Appointment
+16. Paitents Can See their requested, upcoming and rejected appointments
+17. Doctors Can See the Upcoming Appointments and Completed appointments
+18. Patient Can Update the Appointment he has made
+19. Doctors can Update/Accept Appointment in their pending list
+20. Doctors reject appointment
+21. Patients can delete the appointments they have made
+22. Doctors can write prescription.
+23. Doctors and patients can download prescription.
+24. Staff can update ambulance details.
+25. Staff can make ambulance available/unavailable.
+26. Patients can book ambulance.
+27. Patients can see available medicines.
+28. Patients can add mediciens to their cart.
+29. Patients can order medicines.
+30. Patients can keep their health records.
+31. Patients can delete their health records.
+32. Doctors can take help of machine learning to detect heart attack risk.
+33. 
